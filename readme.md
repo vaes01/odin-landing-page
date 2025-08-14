@@ -1,0 +1,1 @@
+The goal of this exercise is to build a landing page from scratch, based on a visual reference, without any reference of code.
